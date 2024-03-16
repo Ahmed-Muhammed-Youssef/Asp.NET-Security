@@ -1,6 +1,7 @@
 # ASP.NET Core Security
-This repository is the summery of the "ASP.NET Core Security" book by CHRISTIAN WENZ. the repo is structured as the book but I'm will not go as deep as the book in each topic, I will cover each topic and if the topic requires, I will create a simple ASP.NET Core App to set up for a scenario for that topic
+This repository provides a concise overview of the book "ASP.NET Core Security" by Christian Wenz. It follows the same structure as the book, but with a lighter touch on each topic. While the book offers in-depth explanations, this repository focuses on covering the key points.
 
+If a particular topic requires further exploration, a simple ASP.NET Core application will be created to demonstrate a relevant scenario. This will help solidify your understanding of the concepts.
 ## Table of Content
 * Chapter 2: Cross-site scripting (XSS)
 * Chapter 3: Attacking session management
